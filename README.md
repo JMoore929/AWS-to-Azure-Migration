@@ -90,9 +90,7 @@ This lab uses **Azure Migrate**, Microsoft's native migration hub, to run a cont
 
 ### High-level architecture
 
-![Lab 06 architecture: AWS EC2 to Azure with Azure Migrate](./images/architecture.svg)
-
-> A PNG copy is also in [`images/architecture.png`](./images/architecture.png) for slides or LinkedIn posts. Solid elements were deployed in this build; dashed elements (replication and cutover) were not performed.
+![Lab 06 architecture: AWS EC2 to Azure with Azure Migrate](./images/architecture.)
 
 ### Network design
 
