@@ -90,7 +90,7 @@ This lab uses **Azure Migrate**, Microsoft's native migration hub, to run a cont
 
 ### High-level architecture
 
-![Lab 06 architecture: AWS EC2 to Azure with Azure Migrate](./images/architecture.png)
+![Lab 06 architecture: AWS EC2 to Azure with Azure Migrate](architecture.png)
 
 ### Network design
 
