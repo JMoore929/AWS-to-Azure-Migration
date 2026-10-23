@@ -1,4 +1,4 @@
-# Lab 06: AWS EC2 to Azure Migration with Azure Migrate
+# AWS EC2 to Azure Migration with Azure Migrate
 
 ![Azure](https://img.shields.io/badge/Azure-Migrate-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazonaws&logoColor=white)
