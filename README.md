@@ -7,7 +7,7 @@
 
 An end-to-end, cloud-to-cloud migration of a Windows Server 2022 workload from **AWS EC2** into **Azure** using **Azure Migrate**. Both environments are provisioned with **Terraform**, and the migration follows the full lifecycle used on real engagements: **discover → assess → replicate → test migrate → cut over → verify**.
 
-**Walkthrough video:** _[Loom link]_
+**Walkthrough video:** https://www.loom.com/share/e1685ccfa1a447f096642c1d9dc8cfb3
 
 ---
 
